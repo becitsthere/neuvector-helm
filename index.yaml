@@ -1,0 +1,21 @@
+apiVersion: v1
+entries:
+  core:
+  - apiVersion: v1
+    appVersion: 4.0.0
+    created: "2020-11-02T07:20:35.693927981Z"
+    description: NeuVector Full Lifecycle Container Security Platform delivers the
+      only cloud-native security with uncompromising end-to-end protection from DevOps
+      vulnerability protection to automated run-time security, and featuring a true
+      Layer 7 container firewall.
+    digest: ce55d557118389e06205e628c04c71b937a1838205af88bd492af8bf929ff30f
+    engine: gotpl
+    home: https://neuvector.com
+    maintainers:
+    - email: support@neuvector.com
+      name: becitsthere
+    name: core
+    urls:
+    - https://becitsthere.github.io/neuvector-helm/core-1.6.1.tgz
+    version: 1.6.1
+generated: "2020-11-02T07:20:35.692989479Z"
